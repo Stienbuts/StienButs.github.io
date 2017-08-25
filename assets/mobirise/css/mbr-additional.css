@@ -1,20 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -89,7 +75,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #ffffff !important;
+  background-color: #c0a375 !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -104,8 +90,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #c0a375;
+  border-color: #c0a375;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -114,14 +100,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  background-color: #a07e49;
+  border-color: #a07e49;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  background-color: #a07e49 !important;
+  border-color: #a07e49 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -225,8 +211,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #ffffff;
-  color: #ffffff;
+  border-color: #8e7041;
+  color: #8e7041;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -234,14 +220,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #ffffff;
-  border-color: #ffffff;
+  background-color: #c0a375;
+  border-color: #c0a375;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ffffff !important;
-  border-color: #ffffff !important;
+  background-color: #c0a375 !important;
+  border-color: #c0a375 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -344,7 +330,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #ffffff !important;
+  color: #c0a375 !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -371,36 +357,36 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #ffffff;
+  border-color: #c0a375;
 }
 .btn-social:hover {
-  background: #ffffff;
+  background: #c0a375;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #ffffff;
+  color: #c0a375;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #ffffff;
+  color: #c0a375;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #ffffff;
+  background: #c0a375;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #ffffff;
+  color: #c0a375;
 }
 .lead a,
 .lead a:hover {
-  color: #ffffff;
+  color: #c0a375;
 }
 .lead blockquote {
-  border-color: #ffffff;
+  border-color: #c0a375;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #e8ddcd;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -420,85 +406,68 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #ffffff;
+  color: #c0a375;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#msg-box8-5 .mbr-section-title,
-#msg-box8-5 p {
-  color: #fff;
+#features1-f .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #95b7c9;
 }
-#msg-box8-5 .mbr-section-title {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 100px;
+#features1-f .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #ffffff;
 }
-#msg-box8-5 .mbr-section-title SPAN {
-  color: #000000;
-}
-#msg-box8-5 .lead P {
-  color: #000000;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 32px;
-}
-#header3-1 .mbr-section-title,
-#header3-1 .mbr-section-subtitle {
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1 H3 {
-  font-family: 'Titillium Web', sans-serif;
-}
-#header3-1 SPAN {
-  font-family: 'Source Sans Pro', sans-serif;
-  color: #7c706b;
-}
-#header3-1 SMALL {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#header3-2 .mbr-section-title,
-#header3-2 .mbr-section-subtitle {
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-2 H3 {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#header3-2 SMALL {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#header3-2 SPAN {
-  color: #7c706b;
-}
-#header3-3 .mbr-section-title,
-#header3-3 .mbr-section-subtitle {
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-3 H3 {
-  font-family: 'Source Sans Pro', sans-serif;
-  color: #473d39;
-}
-#header3-3 SPAN {
-  color: #7c706b;
-}
-#header3-3 SMALL {
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#header3-e .mbr-section-title,
-#header3-e .mbr-section-subtitle {
+#header3-1a .mbr-section-title,
+#header3-1a .mbr-section-subtitle {
   text-align: center;
 }
-#header3-e H3 {
-  color: #7c706b;
-  font-family: 'Source Sans Pro', sans-serif;
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
 }
-#header3-e SMALL {
-  font-family: 'Source Sans Pro', sans-serif;
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
+  text-align: center;
 }
-#social-buttons2-h .mbr-section-title,
-#social-buttons2-h .btn-social {
-  color: #232323;
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
+  text-align: center;
 }
-#social-buttons2-h .mbr-section-title SPAN {
-  color: #000000;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 60px;
+#slider-1r H2 {
+  text-align: left;
+}
+#slider-1r SPAN {
+  text-align: right;
+}
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-t .mbr-section-title,
+#header3-t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-y .mbr-section-title,
+#header3-y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
 }
