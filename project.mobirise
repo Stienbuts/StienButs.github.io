@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Namastien",
-    "currentPage": "page4.html",
+    "currentPage": "campingstien.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2295,7 +2295,7 @@
         }
       ]
     },
-    "page4.html": {
+    "campingstien.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Camping Stien",
@@ -2319,7 +2319,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
+            "overlayColor": "#40572a",
             "overlayOpacity": "0.2"
           },
           "title": "Camping Stien&nbsp;",
