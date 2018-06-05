@@ -2376,7 +2376,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><b>Woensdag 18 juli</b><br></p><p><span style=\"font-size: 1.07rem;\">17u: Iedereen welkom! Tijd om tenten op te stellen.&nbsp;</span><br></p><p>19u: Spaghetti bolognaise à la mama</p><p>Avond: kampvuur!</p><p><br></p><p><b>Donderdag 19 juli</b></p><p><span style=\"font-size: 1.07rem;\">Opstaan, boterhammekes eten en smeren voor 's middags.</span><br></p><p>Chillen aan de zwemvijver, een kubbeke gooien,...</p><p>13u30: KLIMBOS! In mijn vrije tijd begeleid ik dit hoogteparcours. Nu krijgen jullie de kans om het zelf te testen!</p><p>19u: wok à la mama</p><p>Avond: nog eens kampvuur!</p><p><b><br></b></p><p><b>Vrijdag 20 juli</b></p><p><span style=\"font-size: 1.07rem;\">Opstaan, boterhammekes eten en afscheid nemen.</span></p><p><br></p>",
+          "text": "<p><br></p><p><b>Woensdag 18 juli</b><br></p><p><span style=\"font-size: 1.07rem;\">17u: Iedereen welkom! Tijd om tenten op te stellen.&nbsp;</span><br></p><p>19u: Spaghetti bolognaise à la mama &nbsp;(✓)</p><p>Avond: kampvuur!</p><p><br></p><p><b>Donderdag 19 juli</b></p><p><span style=\"font-size: 1.07rem;\">Opstaan, boterhammekes eten en smeren voor 's middags.</span><br></p><p>Chillen aan de zwemvijver, een kubbeke gooien,...</p><p>13u30: KLIMBOS! In mijn vrije tijd begeleid ik dit hoogteparcours. Nu krijgen jullie de kans om het zelf te testen!</p><p>19u: wok à la mama &nbsp;(✓)</p><p>Avond: nog eens kampvuur!</p><p><b><br></b></p><p><b>Vrijdag 20 juli</b></p><p><span style=\"font-size: 1.07rem;\">Opstaan, boterhammekes eten en afscheid nemen.</span></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -2384,7 +2384,8 @@
           "_anchor": "content1-22",
           "_styles": {
             "P": {
-              "font-size": "19px"
+              "font-size": "19px",
+              "color": "#000000"
             }
           }
         },
