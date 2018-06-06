@@ -2309,14 +2309,17 @@
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#f28281",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/NUKKzdVy0EI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=NUKKzdVy0EI",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#40572a",
