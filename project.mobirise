@@ -2316,12 +2316,12 @@
             "bgColor": "#f28281",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://stienbuts.github.io/campingstien.html",
-              "rawUrl": "https://stienbuts.github.io/campingstien.html",
+              "url": "https://www.youtube.com/embed/0U8XNykv0Vs?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=0U8XNykv0Vs&t=45s",
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#90a878",
             "overlayOpacity": "0"
           },
