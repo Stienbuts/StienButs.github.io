@@ -2313,7 +2313,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColor": "#f28281",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2442,11 +2442,11 @@
             "P": {
               "font-size": "20px",
               "text-align": "center",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#40572a"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -2454,11 +2454,11 @@
             "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-810x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#90a878",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
