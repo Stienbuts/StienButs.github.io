@@ -2303,6 +2303,20 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "100px"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-20",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -2316,10 +2330,10 @@
             "bgColor": "#f28281",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/0U8XNykv0Vs?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=0U8XNykv0Vs&t=45s",
               "width": 1280,
-              "height": 720
+              "height": 720,
+              "url": "https://www.youtube.com/embed/0U8XNykv0Vs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "overlay": false,
             "overlayColor": "#90a878",
@@ -2327,21 +2341,7 @@
           },
           "title": "Camping Stien&nbsp;",
           "text": "<b>We waren bijna echt vergeten hoe schoon de zomer wel kan zijn...</b><br><b><br></b><br><b>dinsdag 17 juli - donderdag 19 juli</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-20",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "100px"
-            },
-            ".mbr-section-lead B": {
-              "font-size": "30px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -2359,6 +2359,11 @@
               "text-align": "left"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26",
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
@@ -2366,31 +2371,26 @@
             "bgColor": "#90a878"
           },
           "title": "",
-          "meta": "Ik huur een kampeergrond en iedereen is uitgenodigd om te komen kamperen op de Hoge Rielen, of om langs te komen voor een avond bij het kampvuur!&nbsp;<br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-26"
+          "meta": "Ik huur een kampeergrond en iedereen is uitgenodigd om te komen kamperen op de Hoge Rielen, of om langs te komen voor een avond bij het kampvuur!&nbsp;<br>"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><br></p><p><b>dinsdag 17 juli</b><br></p><p><span style=\"font-size: 1.07rem;\">17u: Start&nbsp;</span><br></p><p>18u: Spaghetti bolognaise&nbsp;</p><p>avond: kampvuur</p><p><br></p><p><b>woensdag 18 juli</b></p><p>Chillen aan de zwemvijver, kubb,...<br></p><p>13u30: KLIMBOS! In mijn vrije tijd begeleid ik dit hoogteparcours. Nu is het aan jullie!</p><p>18u: wok</p><p>avond: kampvuur</p><p><b><br></b></p><p><b>donderdag 19 juli</b></p><p><span style=\"font-size: 1.07rem;\">10</span><span style=\"font-size: 1.07rem;\">u: ge moogt naar huis gaan, vaarwel goodbye</span></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-22",
           "_styles": {
             "P": {
               "font-size": "19px",
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "content1-22",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><b>dinsdag 17 juli</b><br></p><p><span style=\"font-size: 1.07rem;\">17u: Start&nbsp;</span><br></p><p>18u: Spaghetti bolognaise&nbsp;</p><p>avond: kampvuur</p><p><br></p><p><b>woensdag 18 juli</b></p><p>Chillen aan de zwemvijver, kubb,...<br></p><p>13u30: KLIMBOS! In mijn vrije tijd begeleid ik dit hoogteparcours. Nu is het aan jullie!</p><p>18u: wok</p><p>avond: kampvuur</p><p><b><br></b></p><p><b>donderdag 19 juli</b></p><p><span style=\"font-size: 1.07rem;\">10</span><span style=\"font-size: 1.07rem;\">u: ge moogt naar huis gaan, vaarwel goodbye</span></p><p><br></p>"
         },
         {
           "_styles": {
@@ -2402,6 +2402,11 @@
               "text-align": "left"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-25",
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
@@ -2409,30 +2414,25 @@
             "bgColor": "#90a878"
           },
           "title": "Wa kost da?&nbsp;",
-          "meta": "",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-25"
-        },
-        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-24",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Je bepaalt zelf wanneer je komt en hoelang je blijft.&nbsp;</p><p>Hier staan de prijzen op een rij.</p><p><br></p><p>- Spaghetti &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; note: ook veggie</p><p>- Nacht 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">note: ontbijt, tussendoortjes en lunch 's anderendaags incl.</span></p><p>- Klimbos &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; €9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; note: Klimbos moet VOOR 1 JULI gereserveerd worden! Tussendoortje incl.</p><p>- Wok &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; €6&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;note: ook veggie</p><p>- Nacht 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;€8 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; note: ontbijt en tussendoortje 's anderendaags incl.</p><p><br></p><p>Kom je van begin tot eind?</p><p><br></p><p>- combi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€25</p><p>- combi + klimbos &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€34</p><p><br></p><p>\n</p><p>Je hoeft zelf geen eten of drinken meepakken. Al het eten is inbegrepen en je gaat geen honger lijden!</p><p>De drankjes bij het kampvuur kan je ter plekke betalen (€1/stuk). Neem dus cash mee.&nbsp;</p><p>Je kan ook enkel 's avonds komen. Dan hoef je dus niks op voorhand te betalen.</p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-24",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text": "<p>Je bepaalt zelf wanneer je komt en hoelang je blijft.&nbsp;</p><p>Hier staan de prijzen op een rij.</p><p><br></p><p>- Spaghetti &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; note: ook veggie</p><p>- Nacht 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">note: ontbijt, tussendoortjes en lunch 's anderendaags incl.</span></p><p>- Klimbos &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; €10 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; note: Klimbos moet VOOR 1 JULI gereserveerd worden! Tussendoortje incl.</p><p>- Wok &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; €6&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;note: ook veggie</p><p>- Nacht 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;€8 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; note: ontbijt en tussendoortje 's anderendaags incl.</p><p><br></p><p>Kom je van begin tot eind?</p><p><br></p><p>- combi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€25</p><p>- combi + klimbos &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;€35</p><p><br></p><p>\n</p><p>Je hoeft zelf geen eten of drinken meepakken. Al het eten is inbegrepen en je gaat geen honger lijden!</p><p>De drankjes bij het kampvuur kan je ter plekke betalen (€1/stuk). Neem dus cash mee.&nbsp;</p><p>Je kan ook enkel 's avonds komen. Dan hoef je dus niks op voorhand te betalen.</p><p><br></p>"
         },
         {
           "_styles": {
@@ -2452,6 +2452,11 @@
               "color": "#ffffff"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-23",
           "_params": {
             "showTitle": true,
             "showCaption": true,
@@ -2471,25 +2476,20 @@
             "overlayOpacity": "0.7"
           },
           "title": "Kom je af?&nbsp;",
-          "caption": "<p><b><span style=\"font-size: 1.07rem;\">stort jouw totale prijs op mijn rekening VOOR 1 JULI.<br></span><span style=\"font-size: 1.07rem;\">BE 03 0018 1713 8584<br></span><span style=\"font-size: 1.07rem;\">Met als mededeling \"naam + jouw activiteiten\"</span></b></p><p><span style=\"font-size: 1.07rem;\">Bv. Ines komt voor klimbos (€9), wok (€6) en blijft voor het tweede kampvuur.<br>Ze schrijft €15 over met als mededeling \"Ines klimbos + wok\"</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp;Bv: Emma en Sam komen beiden van begin tot eind. Sam doet mee klimbos, Emma niet.<br>Ze schrijven €59 over met als mededeling \"Emma combi, Sam combi + klimbos\"</span></p><p><span style=\"font-size: 1.07rem;\"><b>Met de overschrijving ben je ingeschreven!</b></span></p>",
+          "caption": "<p><b><span style=\"font-size: 1.07rem;\">stort jouw totale prijs op mijn rekening.<br></span><span style=\"font-size: 1.07rem;\">BE 03 0018 1713 8584<br></span><span style=\"font-size: 1.07rem;\">Met als mededeling \"naam + jouw activiteiten\"<br></span></b></p><p><span style=\"font-size: 1.07rem;\">Bv. Ines komt voor klimbos (€10), wok (€6) en blijft voor het tweede kampvuur.<br>Ze schrijft €16 over met als mededeling \"Ines klimbos + wok\"</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp;Bv: Emma en Sam komen beiden van begin tot eind. Sam doet mee klimbos, Emma niet.<br>Ze schrijven €70 over met als mededeling \"Emma combi, Sam combi + klimbos\"</span></p><p><span style=\"font-size: 1.07rem;\"><b>Met de overschrijving ben je ingeschreven!</b></span></p><p>Deadline: 10 juli<br>Deadline klimbos: 1 juli</p>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-23"
-        },
-        {
+          "_name": "buttons1",
+          "_anchor": "buttons1-2c",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.dehogerielen.be/sites/default/files/hoge-rielen/bijlagen-paginas/2017-06-26_plattegrond_geen_huisregels_a4_ol.pdf\" data-toolbar=\"-mbrBtnMove\">grondplan</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://www.dehogerielen.be/routebeschrijving-0\" data-toolbar=\"-mbrBtnMove\">Routebeschrijving</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-2c"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.dehogerielen.be/sites/default/files/hoge-rielen/bijlagen-paginas/2017-06-26_plattegrond_geen_huisregels_a4_ol.pdf\" data-toolbar=\"-mbrBtnMove\">grondplan</a> <a data-app-btn=\"true\" class=\"btn btn-success-outline btn-success\" href=\"https://www.dehogerielen.be/routebeschrijving-0\" data-toolbar=\"-mbrBtnMove\">Routebeschrijving</a>"
         },
         {
           "_styles": {
@@ -2503,6 +2503,11 @@
               "color": "#40572a"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a",
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
@@ -2510,12 +2515,7 @@
             "bgColor": "#fff"
           },
           "title": "TOT DAN!",
-          "meta": "open de vensters en open de ogen&nbsp;<br>en zie hoe schoon de zomers zijn",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2a"
+          "meta": "open de vensters en open de ogen&nbsp;<br>en zie hoe schoon de zomers zijn"
         }
       ]
     }
